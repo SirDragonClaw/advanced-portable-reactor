@@ -1,0 +1,10 @@
+{
+	"name":"advanced-portable-reactor",
+	"author":"Daniel Armstrong",
+	"version":"1.0.0",
+	"title":"Advanced Portable Reactor",
+	"description":"Advanced Portable Reactor, the Portable fusion reactor MK2",
+	"homepage":"https://github.com/SirDragonClaw/advanced-portable-reactor",
+	"factorio_version":"1.1",
+	"dependencies": ["base >= 0.18.8"]
+}
